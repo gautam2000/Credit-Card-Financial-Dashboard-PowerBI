@@ -7,7 +7,7 @@ effectively.
 ## Description:
 The dataset contains 10,108 records with 18 columns, primarily related to credit card transactions and customer profiles. Here's a summary of key insights, correlating the data with the provided Power BI dashboard:
 
-Key Attributes from the Dataset:
+## Key Attributes from the Dataset:
 
 Card Categories: The dataset includes various card categories like Blue, Silver, Gold, and Platinum, aligning with the dashboard's "Card Category Performance" analysis.
 
@@ -21,7 +21,7 @@ Expenditure Type: The Exp Type column can be mapped to the "Revenue by Expenditu
 
 Transaction Method: The Use Chip field records whether the customer used Chip, Swipe, or Online, which aligns with the "Revenue by Use Chip" dashboard analysis.
 
-Possible Analysis from Dataset:
+##  Analysis from Dataset:
 
 Revenue Trends by Card Category: Use Card_Category and Total_Trans_Amt to visualize which card types generate the most revenue. The Blue card appears to have higher volumes.
 
